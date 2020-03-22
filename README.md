@@ -1,3 +1,10 @@
+CURSO REACT - REDUX:
+
+MyBurguer
+
+![Captura](https://user-images.githubusercontent.com/7141537/77256365-c7d95200-6c3b-11ea-99d1-32b38ab602cb.PNG)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
